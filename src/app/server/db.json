@@ -1,0 +1,104 @@
+{
+  "register": [
+    {
+      "username": "aya",
+      "email": "aya@gamil.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 1
+    },
+    {
+      "username": "mahmoud",
+      "email": "mahmoud@gamil.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 2
+    },
+    {
+      "username": "mostafa",
+      "email": "mostafa@gamil.com",
+      "password": "4567",
+      "confirmPassword": "4567",
+      "id": 3
+    },
+    {
+      "username": "ahmed",
+      "email": "ahmed@gamil.com",
+      "password": "678",
+      "confirmPassword": "678",
+      "id": 4
+    },
+    {
+      "username": "ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 5
+    },
+    {
+      "username": "omar",
+      "email": "ahmed@gmail.com",
+      "password": "234",
+      "confirmPassword": "234",
+      "id": 6
+    },
+    {
+      "username": "ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 7
+    },
+    {
+      "username": "ali",
+      "email": "ali@gmail.com",
+      "password": "789",
+      "confirmPassword": "789",
+      "id": 8
+    },
+    {
+      "username": "aya",
+      "email": "mona@gamil.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 9
+    },
+    {
+      "username": "mahmoud",
+      "email": "mahmou@gamil.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 10
+    }
+  ],
+  "doctor": [
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 1
+    }
+  ],
+  "subjects": [
+    {
+      "name": "math",
+      "questions": [
+        {
+          "question": "3*4",
+          "answer1": "12",
+          "answer2": "6",
+          "answer3": "65",
+          "answer4": "83",
+          "correctAnswer": "12"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "math",
+      "questions": [],
+      "id": 3
+    }
+  ]
+}
